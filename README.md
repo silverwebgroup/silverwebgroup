@@ -1,4 +1,4 @@
-# Hi, I'm Władysław 👋
+# Hi, I'm Władysław Kulik 👋
 
 Founder / Software Developer @ **Silver Web** (by Silver Web Group)  
 Building modern, independent web products.
