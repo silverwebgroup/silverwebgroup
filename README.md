@@ -1,25 +1,16 @@
-# Hi, I'm Władysław Kulik 👋
+# Władysław Kulik
 
-Founder / Software Developer @ **Silver Web** (by Silver Web Group)  
-Building modern, independent web products.
+Frontend Developer | Vue 3 • Nuxt 3/4 • TypeScript • Serverless
 
----
+Building production web applications and SaaS products.
 
-## 🧩 About Silver Web
+## 🚀 Live Projects
 
-**Silver Web** is a brand focused on designing and launching original web-based products.  
-We build useful solutions that are simple, fast, and thoughtfully crafted.
+- [timesyncer.com](https://timesyncer.com) – Time zone platform
+- [convertyze.com](https://convertyze.com) – Unit converters
+- [emojiportal.com](https://emojiportal.com) – Emoji encyclopedia
+- Shopify SaaS plugins (coming soon)
 
-Our mission is to create practical web products that solve real everyday problems — with clarity, speed, and purpose.
+**Stack:** Nuxt 3/4, Vue 3, TypeScript, Remix, Cloudflare Workers, D1
 
-🔗 [silverweb.dev](https://silverweb.dev)
-
----
-
-## 🚀 Currently
-
-- Designing and developing public-facing web products
-
----
-
-> All private repos you don’t see… might be your next favorite tool 😉
+**Experience:** 4+ years | Open to part-time Vue/Nuxt roles
