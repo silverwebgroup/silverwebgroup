@@ -6,7 +6,7 @@ Building production web applications and SaaS products.
 
 ## 🚀 Live Projects
 
-- [timesyncer.com](https://timesyncer.com) – Time zone platform
+- [timesyncer.com](https://timesyncer.com) – Time zone tools
 - [convertyze.com](https://convertyze.com) – Unit converters
 - [emojiportal.com](https://emojiportal.com) – Emoji encyclopedia
 - Shopify SaaS plugins (coming soon)
