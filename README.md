@@ -1,6 +1,6 @@
 # Władysław Kulik
 
-**Fullstack Developer** | Vue 3 • Nuxt 4 • React • Remix • TypeScript
+**Fullstack Developer** | Vue • Nuxt • React • Remix • TypeScript • Node.js
 
 Building production web applications and SaaS products with 4+ years of commercial experience.
 
@@ -31,7 +31,7 @@ Built with Remix/React Router 7 and OpenAI API.
 ## 🛠 Tech Stack
 
 **Frontend:** Vue 3, Nuxt 4, React, Remix, TypeScript  
-**Backend:** Node.js, Cloudflare Workers
+**Backend:** Node.js, Express.js, Cloudflare Workers
 
 ---
 
