@@ -1,6 +1,6 @@
 # Władysław Kulik
 
-**Web Developer** | Vue • Nuxt • React • Remix • TypeScript • Node.js
+**Fullstack Developer** | Vue • Nuxt • React • Remix • TypeScript • Node.js
 
 Building production web applications and SaaS products with 4+ years of commercial experience.
 
