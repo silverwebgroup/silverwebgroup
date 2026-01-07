@@ -10,16 +10,16 @@ Building production web applications and SaaS products with 4+ years of commerci
 
 ## 🚀 Live Projects (Fullstack)
 
-### [timesyncer.com](https://timesyncer.com)
+### [TimeSyncer](https://timesyncer.com)
 Time zone platform covering 244 countries and 400+ time zones. Advanced time zone comparison integrated with calendars and email clients. Custom CMS, analytics system, and embeddable widgets.
 
-### [convertyze.com](https://convertyze.com)
+### [Convertyze](https://convertyze.com)
 Unit converters + Chrome extension for quick conversions.
 
-### [emojiportal.com](https://emojiportal.com)
+### [EmojiPortal](https://emojiportal.com)
 Emoji encyclopedia with search and copy functionality.
 
-### GoodySell — Shopify Apps
+### [GoodySell](https://goodysell.com) — Shopify Apps
 AI-powered tools for e-commerce merchants:
 - [AI Alt Generator](https://apps.shopify.com/goodysell-ai-alt-generator) — Bulk AI-generated alt text for product images
 - [AI SEO Blog](https://apps.shopify.com/goodysell-ai-seo-blog) — AI-generated SEO blog posts with images
