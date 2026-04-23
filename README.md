@@ -2,8 +2,6 @@
 
 **Fullstack Developer** | Vue • Nuxt • React • Remix • TypeScript • Node.js
 
-**Founder of Silver Web • Co-Founder of GoodySell**
-
 Building production web applications and SaaS products.
 
 ---
@@ -25,8 +23,4 @@ AI-powered tools for e-commerce merchants.
 ---
 
 ## 📫 Contact
-
-- ✉️ infobox@silverweb.dev
-- 🌐 [silverweb.dev](https://silverweb.dev)
-- 🛒 [goodysell.com](https://goodysell.com)
 - 💼 [LinkedIn](https://linkedin.com/in/władysław-kulik-106224212)
